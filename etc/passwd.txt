@@ -1,0 +1,2 @@
+ashish:x:1:2:user1:/user/home:/bin/bash
+ram:x:2:3:user2:/user/home:/bin/bash

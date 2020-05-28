@@ -1,0 +1,1 @@
+The files passwd and shadow are stored in etc folder which is created in the present working directory when the program is executed
